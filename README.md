@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @juyeon-shin
+- 👀 I’m interested in data analysis, machain learing
