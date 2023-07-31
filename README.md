@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @juyeon-shin
 - 👀 I’m interested in data analysis, machain learing
-- https://www.notion.so/juyeon-coding/3e7e95dde3e84f78919369170cdb6c14?v=edf65bc51ff84583b8ea983d91cbc358&pvs=4
+- [Notion](https://www.notion.so/juyeon-coding/3e7e95dde3e84f78919369170cdb6c14?v=edf65bc51ff84583b8ea983d91cbc358&pvs=4)
